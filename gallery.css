@@ -1,0 +1,97 @@
+body {
+  background-color: black;
+  background-image: url("./images/Image Collection.png");
+  background-repeat: no-repeat;
+  background-size: 1195px 1130px;
+  background-position: center;
+}
+
+.box1 {
+  text-align: center;
+  margin-bottom: 400px;
+  height: 580px;
+}
+
+.box3 {
+  left: 363px;
+  margin-bottom: 500px;
+  position: absolute;
+  top: 650px;
+}
+
+.box4 {
+  left: 471px;
+  margin-bottom: 500px;
+  position: absolute;
+  top: 650px;
+}
+
+.box5 {
+  left: 578px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box6 {
+  left: 685px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box7 {
+  left: 790px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box8 {
+  left: 900px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box9 {
+  left: 1010px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box10 {
+  left: 1120px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box11 {
+  left: 1228px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box12 {
+  left: 1340px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box13 {
+  left: 1450px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 650px;
+}
+
+.box14 {
+  left: 520px;
+  margin-bottom: 400px;
+  position: absolute;
+  top: 190px;
+}
